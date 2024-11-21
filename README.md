@@ -5,7 +5,7 @@
 
 ## Setup
 *  Clone the repo `git clone -b sdk https://github.com/browserstack/codecept-js-playwright-browserstack.git`.
-*  run `cd codecept-js-playwright-browserstack`.
+*  Run `cd codecept-js-playwright-browserstack`.
 *  Install dependencies `npm install`
 
 
