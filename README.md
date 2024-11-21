@@ -1,6 +1,6 @@
 # CodeceptJS-Playwright-Browserstack
 
-# Integrating Playwright <a href="https://playwright.dev/docs/intro"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Node.js" height="22" /></a>  and CodeceptJS <a href="https://codecept.io/"><img src="https://codecept.io/logo.svg" alt="Node.js" height="22" /></a> with BrowserStack <a href="https://browserstack.com"><img src="https://www.browserstack.com/blog/favicon.png" alt="BrowserStack" height="22" /></a>
+# Integrating Playwright <a href="https://playwright.dev/docs/intro"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Node.js" height="22" /></a>  and CodeceptJS <a href="https://codecept.io/"><img src="https://codecept.io/logo.svg" alt="Node.js" height="22" /></a> with BrowserStack <a href="https://browserstack.com"><img src="https://browserstack.wpenginepowered.com/wp-content/themes/browserstack/img/bstack-logo-global.svg" alt="BrowserStack" height="22" /></a>
 
 
 ## Setup
