@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/browserstack/codecept-js-playwright-browserstack#readme",
   "devDependencies": {
-    "browserstack-node-sdk": "latest",
+    "browserstack-node-sdk": "^1.22.0",
     "codeceptjs": "^3.2.3",
     "playwright": "^1.41.2"
   },
