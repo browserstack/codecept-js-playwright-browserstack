@@ -30,6 +30,7 @@
   },
   "overrides": {
     "serialize-javascript": ">=7.0.3",
-    "@xmldom/xmldom": ">=0.9.9"
+    "@xmldom/xmldom": ">=0.9.9",
+    "axios": ">=1.15.0"
   }
 }
