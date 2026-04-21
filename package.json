@@ -22,7 +22,7 @@
   "devDependencies": {
     "browserstack-node-sdk": "^1.22.0",
     "codeceptjs": "^3.2.3",
-    "playwright": "^1.41.2"
+    "playwright": "1.58.1"
   },
   "dependencies": {
     "browserstack-local": "^1.5.2",
@@ -31,6 +31,8 @@
   "overrides": {
     "serialize-javascript": ">=7.0.3",
     "@xmldom/xmldom": ">=0.9.9",
-    "axios": ">=1.15.0"
+    "axios": ">=1.15.0",
+    "protobufjs": "^7.5.5",
+    "basic-ftp": ">=5.2.2"
   }
 }
